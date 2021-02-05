@@ -1,7 +1,7 @@
 %!PS-Adobe-3.0 EPSF-3.0
 %%Title: Heat_Test
 %%Creator: matplotlib version 3.2.2, http://matplotlib.org/
-%%CreationDate: Thu Feb  4 16:48:59 2021
+%%CreationDate: Fri Feb  5 16:49:57 2021
 %%Orientation: portrait
 %%BoundingBox: -165.43387500000003 108.61000000000003 777.4338750000001 683.39
 %%EndComments
@@ -1400,7 +1400,7 @@ gsave
 175.233375 451.713375 l
 103.809375 451.713375 l
 103.809375 495.201375 l
-0.121 0.531 0.259 setrgbcolor
+0.108 0.520 0.250 setrgbcolor
 fill
 grestore
 gsave
@@ -1482,7 +1482,7 @@ gsave
 175.233375 408.225375 l
 103.809375 408.225375 l
 103.809375 451.713375 l
-0.395 0.739 0.434 setrgbcolor
+0.452 0.767 0.461 setrgbcolor
 fill
 grestore
 gsave
@@ -1566,7 +1566,7 @@ gsave
 175.233375 364.737375 l
 103.809375 364.737375 l
 103.809375 408.225375 l
-0.048 0.469 0.207 setrgbcolor
+0.044 0.465 0.204 setrgbcolor
 fill
 grestore
 gsave
@@ -1576,7 +1576,7 @@ gsave
 246.657375 364.737375 l
 175.233375 364.737375 l
 175.233375 408.225375 l
-0.078 0.494 0.228 setrgbcolor
+0.087 0.502 0.234 setrgbcolor
 fill
 grestore
 gsave
@@ -1586,7 +1586,7 @@ gsave
 318.081375 364.737375 l
 246.657375 364.737375 l
 246.657375 408.225375 l
-0.376 0.730 0.424 setrgbcolor
+0.389 0.736 0.430 setrgbcolor
 fill
 grestore
 gsave
@@ -1652,7 +1652,7 @@ gsave
 175.233375 321.249375 l
 103.809375 321.249375 l
 103.809375 364.737375 l
-0.000 0.378 0.152 setrgbcolor
+0.000 0.357 0.144 setrgbcolor
 fill
 grestore
 gsave
@@ -1662,7 +1662,7 @@ gsave
 246.657375 321.249375 l
 175.233375 321.249375 l
 175.233375 364.737375 l
-0.245 0.660 0.357 setrgbcolor
+0.216 0.629 0.333 setrgbcolor
 fill
 grestore
 gsave
@@ -1672,7 +1672,7 @@ gsave
 318.081375 321.249375 l
 246.657375 321.249375 l
 246.657375 364.737375 l
-0.414 0.749 0.443 setrgbcolor
+0.469 0.775 0.474 setrgbcolor
 fill
 grestore
 gsave
@@ -1682,7 +1682,7 @@ gsave
 389.505375 321.249375 l
 318.081375 321.249375 l
 318.081375 364.737375 l
-0.326 0.706 0.400 setrgbcolor
+0.270 0.678 0.372 setrgbcolor
 fill
 grestore
 gsave
@@ -1740,7 +1740,7 @@ gsave
 175.233375 277.761375 l
 103.809375 277.761375 l
 103.809375 321.249375 l
-0.000 0.272 0.108 setrgbcolor
+0.000 0.267 0.106 setrgbcolor
 fill
 grestore
 gsave
@@ -1750,7 +1750,7 @@ gsave
 246.657375 277.761375 l
 175.233375 277.761375 l
 175.233375 321.249375 l
-0.117 0.528 0.256 setrgbcolor
+0.112 0.524 0.253 setrgbcolor
 fill
 grestore
 gsave
@@ -1760,7 +1760,7 @@ gsave
 318.081375 277.761375 l
 246.657375 277.761375 l
 246.657375 321.249375 l
-0.389 0.736 0.430 setrgbcolor
+0.445 0.764 0.458 setrgbcolor
 fill
 grestore
 gsave
@@ -1770,7 +1770,7 @@ gsave
 389.505375 277.761375 l
 318.081375 277.761375 l
 318.081375 321.249375 l
-0.039 0.461 0.201 setrgbcolor
+0.035 0.457 0.198 setrgbcolor
 fill
 grestore
 gsave
@@ -1780,7 +1780,7 @@ gsave
 460.929375 277.761375 l
 389.505375 277.761375 l
 389.505375 321.249375 l
-0.000 0.398 0.160 setrgbcolor
+0.000 0.373 0.150 setrgbcolor
 fill
 grestore
 gsave
@@ -1830,7 +1830,7 @@ gsave
 175.233375 234.273375 l
 103.809375 234.273375 l
 103.809375 277.761375 l
-0.219 0.633 0.336 setrgbcolor
+0.216 0.629 0.333 setrgbcolor
 fill
 grestore
 gsave
@@ -1840,7 +1840,7 @@ gsave
 246.657375 234.273375 l
 175.233375 234.273375 l
 175.233375 277.761375 l
-0.535 0.806 0.529 setrgbcolor
+0.480 0.780 0.483 setrgbcolor
 fill
 grestore
 gsave
@@ -1850,7 +1850,7 @@ gsave
 318.081375 234.273375 l
 246.657375 234.273375 l
 246.657375 277.761375 l
-0.414 0.749 0.443 setrgbcolor
+0.439 0.761 0.455 setrgbcolor
 fill
 grestore
 gsave
@@ -1860,7 +1860,7 @@ gsave
 389.505375 234.273375 l
 318.081375 234.273375 l
 318.081375 277.761375 l
-0.541 0.809 0.533 setrgbcolor
+0.513 0.796 0.511 setrgbcolor
 fill
 grestore
 gsave
@@ -1870,7 +1870,7 @@ gsave
 460.929375 234.273375 l
 389.505375 234.273375 l
 389.505375 277.761375 l
-0.095 0.509 0.241 setrgbcolor
+0.112 0.524 0.253 setrgbcolor
 fill
 grestore
 gsave
@@ -1880,7 +1880,7 @@ gsave
 532.353375 234.273375 l
 460.929375 234.273375 l
 460.929375 277.761375 l
-0.227 0.641 0.342 setrgbcolor
+0.223 0.637 0.339 setrgbcolor
 fill
 grestore
 gsave
@@ -1922,7 +1922,7 @@ gsave
 175.233375 190.785375 l
 103.809375 190.785375 l
 103.809375 234.273375 l
-0.326 0.706 0.400 setrgbcolor
+0.358 0.721 0.415 setrgbcolor
 fill
 grestore
 gsave
@@ -1932,7 +1932,7 @@ gsave
 246.657375 190.785375 l
 175.233375 190.785375 l
 175.233375 234.273375 l
-0.563 0.819 0.552 setrgbcolor
+0.513 0.796 0.511 setrgbcolor
 fill
 grestore
 gsave
@@ -1942,7 +1942,7 @@ gsave
 318.081375 190.785375 l
 246.657375 190.785375 l
 246.657375 234.273375 l
-0.433 0.758 0.452 setrgbcolor
+0.445 0.764 0.458 setrgbcolor
 fill
 grestore
 gsave
@@ -1952,7 +1952,7 @@ gsave
 389.505375 190.785375 l
 318.081375 190.785375 l
 318.081375 234.273375 l
-0.613 0.842 0.592 setrgbcolor
+0.607 0.840 0.588 setrgbcolor
 fill
 grestore
 gsave
@@ -1962,7 +1962,7 @@ gsave
 460.929375 190.785375 l
 389.505375 190.785375 l
 389.505375 234.273375 l
-0.179 0.589 0.304 setrgbcolor
+0.212 0.625 0.330 setrgbcolor
 fill
 grestore
 gsave
@@ -1972,7 +1972,7 @@ gsave
 532.353375 190.785375 l
 460.929375 190.785375 l
 460.929375 234.273375 l
-0.333 0.709 0.403 setrgbcolor
+0.358 0.721 0.415 setrgbcolor
 fill
 grestore
 gsave
@@ -1982,7 +1982,7 @@ gsave
 603.777375 190.785375 l
 532.353375 190.785375 l
 532.353375 234.273375 l
-0.000 0.368 0.148 setrgbcolor
+0.000 0.383 0.154 setrgbcolor
 fill
 grestore
 gsave
@@ -2016,7 +2016,7 @@ gsave
 175.233375 147.297375 l
 103.809375 147.297375 l
 103.809375 190.785375 l
-0.690 0.876 0.665 setrgbcolor
+0.723 0.890 0.697 setrgbcolor
 fill
 grestore
 gsave
@@ -2026,7 +2026,7 @@ gsave
 246.657375 147.297375 l
 175.233375 147.297375 l
 175.233375 190.785375 l
-0.216 0.629 0.333 setrgbcolor
+0.245 0.660 0.357 setrgbcolor
 fill
 grestore
 gsave
@@ -2036,7 +2036,7 @@ gsave
 318.081375 147.297375 l
 246.657375 147.297375 l
 246.657375 190.785375 l
-0.485 0.783 0.488 setrgbcolor
+0.445 0.764 0.458 setrgbcolor
 fill
 grestore
 gsave
@@ -2046,7 +2046,7 @@ gsave
 389.505375 147.297375 l
 318.081375 147.297375 l
 318.081375 190.785375 l
-0.496 0.788 0.497 setrgbcolor
+0.541 0.809 0.533 setrgbcolor
 fill
 grestore
 gsave
@@ -2056,7 +2056,7 @@ gsave
 460.929375 147.297375 l
 389.505375 147.297375 l
 389.505375 190.785375 l
-0.746 0.899 0.720 setrgbcolor
+0.765 0.907 0.738 setrgbcolor
 fill
 grestore
 gsave
@@ -2066,7 +2066,7 @@ gsave
 532.353375 147.297375 l
 460.929375 147.297375 l
 460.929375 190.785375 l
-0.662 0.864 0.638 setrgbcolor
+0.700 0.880 0.674 setrgbcolor
 fill
 grestore
 gsave
@@ -2076,7 +2076,7 @@ gsave
 603.777375 147.297375 l
 532.353375 147.297375 l
 532.353375 190.785375 l
-0.639 0.854 0.615 setrgbcolor
+0.596 0.835 0.579 setrgbcolor
 fill
 grestore
 gsave
@@ -2086,7 +2086,7 @@ gsave
 675.201375 147.297375 l
 603.777375 147.297375 l
 603.777375 190.785375 l
-0.519 0.798 0.515 setrgbcolor
+0.433 0.758 0.452 setrgbcolor
 fill
 grestore
 gsave
@@ -2122,7 +2122,7 @@ gsave
 246.657375 103.809375 l
 175.233375 103.809375 l
 175.233375 147.297375 l
-0.074 0.491 0.225 setrgbcolor
+0.082 0.498 0.231 setrgbcolor
 fill
 grestore
 gsave
@@ -2132,7 +2132,7 @@ gsave
 318.081375 103.809375 l
 246.657375 103.809375 l
 246.657375 147.297375 l
-0.445 0.764 0.458 setrgbcolor
+0.433 0.758 0.452 setrgbcolor
 fill
 grestore
 gsave
@@ -2142,7 +2142,7 @@ gsave
 389.505375 103.809375 l
 318.081375 103.809375 l
 318.081375 147.297375 l
-0.257 0.672 0.366 setrgbcolor
+0.264 0.675 0.369 setrgbcolor
 fill
 grestore
 gsave
@@ -2152,7 +2152,7 @@ gsave
 460.929375 103.809375 l
 389.505375 103.809375 l
 389.505375 147.297375 l
-0.496 0.788 0.497 setrgbcolor
+0.480 0.780 0.483 setrgbcolor
 fill
 grestore
 gsave
@@ -2162,7 +2162,7 @@ gsave
 532.353375 103.809375 l
 460.929375 103.809375 l
 460.929375 147.297375 l
-0.326 0.706 0.400 setrgbcolor
+0.333 0.709 0.403 setrgbcolor
 fill
 grestore
 gsave
@@ -2172,7 +2172,7 @@ gsave
 603.777375 103.809375 l
 532.353375 103.809375 l
 532.353375 147.297375 l
-0.524 0.801 0.520 setrgbcolor
+0.474 0.778 0.479 setrgbcolor
 fill
 grestore
 gsave
@@ -2182,7 +2182,7 @@ gsave
 675.201375 103.809375 l
 603.777375 103.809375 l
 603.777375 147.297375 l
-0.445 0.764 0.458 setrgbcolor
+0.370 0.727 0.421 setrgbcolor
 fill
 grestore
 gsave
@@ -2192,7 +2192,7 @@ gsave
 746.625375 103.809375 l
 675.201375 103.809375 l
 675.201375 147.297375 l
-0.000 0.403 0.162 setrgbcolor
+0.000 0.423 0.171 setrgbcolor
 fill
 grestore
 gsave
@@ -2213,26 +2213,27 @@ gsave
 0.000000 0 m /uni00000013 glyphshow
 10.010742 0 m /uni00000011 glyphshow
 15.011719 0 m /uni00000018 glyphshow
-25.022461 0 m /uni00000016 glyphshow
+25.022461 0 m /uni00000018 glyphshow
 grestore
+0.150 setgray
 gsave
-116.990125 425.313125 translate
+111.982313 425.313125 translate
 0.000000 rotate
 0.000000 0 m /uni00000013 glyphshow
 10.010742 0 m /uni00000011 glyphshow
 15.011719 0 m /uni00000013 glyphshow
-25.022461 0 m /uni0000001a glyphshow
-35.033203 0 m /uni0000001a glyphshow
+25.022461 0 m /uni00000013 glyphshow
+35.033203 0 m /uni00000019 glyphshow
+45.043945 0 m /uni00000019 glyphshow
 grestore
-0.150 setgray
 gsave
 188.414125 425.313125 translate
 0.000000 rotate
 0.000000 0 m /uni00000013 glyphshow
 10.010742 0 m /uni00000011 glyphshow
 15.011719 0 m /uni00000013 glyphshow
-25.022461 0 m /uni00000018 glyphshow
-35.033203 0 m /uni00000015 glyphshow
+25.022461 0 m /uni00000017 glyphshow
+35.033203 0 m /uni0000001c glyphshow
 grestore
 1.000 setgray
 gsave
@@ -2241,23 +2242,23 @@ gsave
 0.000000 0 m /uni00000013 glyphshow
 10.010742 0 m /uni00000011 glyphshow
 15.011719 0 m /uni00000019 glyphshow
-25.022461 0 m /uni00000019 glyphshow
+25.022461 0 m /uni0000001a glyphshow
 grestore
 gsave
-198.429750 381.825125 translate
+193.421938 381.825125 translate
 0.000000 rotate
 0.000000 0 m /uni00000013 glyphshow
 10.010742 0 m /uni00000011 glyphshow
-15.011719 0 m /uni00000019 glyphshow
+15.011719 0 m /uni00000018 glyphshow
+25.022461 0 m /uni0000001c glyphshow
 grestore
 gsave
-259.838125 381.825125 translate
+264.845938 381.825125 translate
 0.000000 rotate
 0.000000 0 m /uni00000013 glyphshow
 10.010742 0 m /uni00000011 glyphshow
 15.011719 0 m /uni00000013 glyphshow
-25.022461 0 m /uni0000001c glyphshow
-35.033203 0 m /uni00000018 glyphshow
+25.022461 0 m /uni0000001b glyphshow
 grestore
 gsave
 121.997938 338.337125 translate
@@ -2265,25 +2266,26 @@ gsave
 0.000000 0 m /uni00000013 glyphshow
 10.010742 0 m /uni00000011 glyphshow
 15.011719 0 m /uni0000001b glyphshow
-25.022461 0 m /uni00000015 glyphshow
+25.022461 0 m /uni00000018 glyphshow
 grestore
 gsave
 193.421938 338.337125 translate
 0.000000 rotate
 0.000000 0 m /uni00000013 glyphshow
 10.010742 0 m /uni00000011 glyphshow
-15.011719 0 m /uni00000015 glyphshow
-25.022461 0 m /uni0000001a glyphshow
+15.011719 0 m /uni00000016 glyphshow
+25.022461 0 m /uni00000016 glyphshow
 grestore
 0.150 setgray
 gsave
-259.838125 338.337125 translate
+256.838125 338.337125 translate
 0.000000 rotate
-0.000000 0 m /uni00000013 glyphshow
-10.010742 0 m /uni00000011 glyphshow
-15.011719 0 m /uni00000013 glyphshow
-25.022461 0 m /uni00000018 glyphshow
-35.033203 0 m /uni00000016 glyphshow
+0.000000 0 m /uni00000010 glyphshow
+5.994141 0 m /uni00000013 glyphshow
+16.004883 0 m /uni00000011 glyphshow
+21.005859 0 m /uni00000013 glyphshow
+31.016602 0 m /uni00000015 glyphshow
+41.027344 0 m /uni00000016 glyphshow
 grestore
 1.000 setgray
 gsave
@@ -2291,8 +2293,8 @@ gsave
 0.000000 rotate
 0.000000 0 m /uni00000013 glyphshow
 10.010742 0 m /uni00000011 glyphshow
-15.011719 0 m /uni00000014 glyphshow
-25.022461 0 m /uni00000019 glyphshow
+15.011719 0 m /uni00000015 glyphshow
+25.022461 0 m /uni00000016 glyphshow
 grestore
 gsave
 121.997938 294.849125 translate
@@ -2308,30 +2310,34 @@ gsave
 0.000000 0 m /uni00000013 glyphshow
 10.010742 0 m /uni00000011 glyphshow
 15.011719 0 m /uni00000018 glyphshow
-25.022461 0 m /uni00000016 glyphshow
+25.022461 0 m /uni00000018 glyphshow
 grestore
+0.150 setgray
 gsave
-264.845938 294.849125 translate
+259.838125 294.849125 translate
 0.000000 rotate
 0.000000 0 m /uni00000013 glyphshow
 10.010742 0 m /uni00000011 glyphshow
 15.011719 0 m /uni00000013 glyphshow
-25.022461 0 m /uni0000001b glyphshow
+25.022461 0 m /uni00000014 glyphshow
+35.033203 0 m /uni00000015 glyphshow
 grestore
+1.000 setgray
 gsave
 336.269938 294.849125 translate
 0.000000 rotate
 0.000000 0 m /uni00000013 glyphshow
 10.010742 0 m /uni00000011 glyphshow
 15.011719 0 m /uni00000019 glyphshow
-25.022461 0 m /uni0000001b glyphshow
+25.022461 0 m /uni0000001c glyphshow
 grestore
 gsave
-412.701750 294.849125 translate
+407.693938 294.849125 translate
 0.000000 rotate
 0.000000 0 m /uni00000013 glyphshow
 10.010742 0 m /uni00000011 glyphshow
 15.011719 0 m /uni0000001b glyphshow
+25.022461 0 m /uni00000016 glyphshow
 grestore
 gsave
 121.997938 251.361125 translate
@@ -2343,30 +2349,33 @@ gsave
 grestore
 0.150 setgray
 gsave
-191.109438 251.361125 translate
+185.414125 251.361125 translate
 0.000000 rotate
 0.000000 0 m /uni00000010 glyphshow
 5.994141 0 m /uni00000013 glyphshow
 16.004883 0 m /uni00000011 glyphshow
-21.005859 0 m /uni00000014 glyphshow
-29.641602 0 m /uni00000014 glyphshow
+21.005859 0 m /uni00000013 glyphshow
+31.016602 0 m /uni00000016 glyphshow
+41.027344 0 m /uni00000018 glyphshow
 grestore
 gsave
-264.845938 251.361125 translate
+259.838125 251.361125 translate
 0.000000 rotate
 0.000000 0 m /uni00000013 glyphshow
 10.010742 0 m /uni00000011 glyphshow
 15.011719 0 m /uni00000013 glyphshow
-25.022461 0 m /uni00000018 glyphshow
+25.022461 0 m /uni00000014 glyphshow
+35.033203 0 m /uni0000001c glyphshow
 grestore
 gsave
-333.269938 251.361125 translate
+328.262125 251.361125 translate
 0.000000 rotate
 0.000000 0 m /uni00000010 glyphshow
 5.994141 0 m /uni00000013 glyphshow
 16.004883 0 m /uni00000011 glyphshow
-21.005859 0 m /uni00000014 glyphshow
-31.016602 0 m /uni00000015 glyphshow
+21.005859 0 m /uni00000013 glyphshow
+31.016602 0 m /uni0000001a glyphshow
+41.027344 0 m /uni0000001b glyphshow
 grestore
 1.000 setgray
 gsave
@@ -2375,7 +2384,7 @@ gsave
 0.000000 0 m /uni00000013 glyphshow
 10.010742 0 m /uni00000011 glyphshow
 15.011719 0 m /uni00000018 glyphshow
-25.022461 0 m /uni0000001a glyphshow
+25.022461 0 m /uni00000017 glyphshow
 grestore
 gsave
 479.117938 251.361125 translate
@@ -2383,7 +2392,7 @@ gsave
 0.000000 0 m /uni00000013 glyphshow
 10.010742 0 m /uni00000011 glyphshow
 15.011719 0 m /uni00000016 glyphshow
-25.022461 0 m /uni00000014 glyphshow
+25.022461 0 m /uni00000015 glyphshow
 grestore
 gsave
 121.997938 207.873125 translate
@@ -2391,26 +2400,26 @@ gsave
 0.000000 0 m /uni00000013 glyphshow
 10.010742 0 m /uni00000011 glyphshow
 15.011719 0 m /uni00000014 glyphshow
-25.022461 0 m /uni00000019 glyphshow
+25.022461 0 m /uni00000015 glyphshow
 grestore
 0.150 setgray
 gsave
-190.421938 207.873125 translate
+185.414125 207.873125 translate
 0.000000 rotate
 0.000000 0 m /uni00000010 glyphshow
 5.994141 0 m /uni00000013 glyphshow
 16.004883 0 m /uni00000011 glyphshow
-21.005859 0 m /uni00000014 glyphshow
-31.016602 0 m /uni00000018 glyphshow
+21.005859 0 m /uni00000013 glyphshow
+31.016602 0 m /uni0000001b glyphshow
+41.027344 0 m /uni00000016 glyphshow
 grestore
 gsave
-259.838125 207.873125 translate
+264.845938 207.873125 translate
 0.000000 rotate
 0.000000 0 m /uni00000013 glyphshow
 10.010742 0 m /uni00000011 glyphshow
 15.011719 0 m /uni00000013 glyphshow
-25.022461 0 m /uni00000015 glyphshow
-35.033203 0 m /uni00000018 glyphshow
+25.022461 0 m /uni00000014 glyphshow
 grestore
 gsave
 333.269938 207.873125 translate
@@ -2419,7 +2428,7 @@ gsave
 5.994141 0 m /uni00000013 glyphshow
 16.004883 0 m /uni00000011 glyphshow
 21.005859 0 m /uni00000015 glyphshow
-31.016602 0 m /uni00000015 glyphshow
+31.016602 0 m /uni00000014 glyphshow
 grestore
 1.000 setgray
 gsave
@@ -2427,8 +2436,8 @@ gsave
 0.000000 rotate
 0.000000 0 m /uni00000013 glyphshow
 10.010742 0 m /uni00000011 glyphshow
-15.011719 0 m /uni00000017 glyphshow
-25.022461 0 m /uni00000014 glyphshow
+15.011719 0 m /uni00000016 glyphshow
+25.022461 0 m /uni00000017 glyphshow
 grestore
 gsave
 479.117938 207.873125 translate
@@ -2436,7 +2445,7 @@ gsave
 0.000000 0 m /uni00000013 glyphshow
 10.010742 0 m /uni00000011 glyphshow
 15.011719 0 m /uni00000014 glyphshow
-25.022461 0 m /uni00000019 glyphshow
+25.022461 0 m /uni00000015 glyphshow
 grestore
 gsave
 550.541938 207.873125 translate
@@ -2444,17 +2453,16 @@ gsave
 0.000000 0 m /uni00000013 glyphshow
 10.010742 0 m /uni00000011 glyphshow
 15.011719 0 m /uni0000001b glyphshow
-25.022461 0 m /uni00000017 glyphshow
+25.022461 0 m /uni00000015 glyphshow
 grestore
 0.150 setgray
 gsave
-118.997938 164.385125 translate
+124.005750 164.385125 translate
 0.000000 rotate
 0.000000 0 m /uni00000010 glyphshow
 5.994141 0 m /uni00000013 glyphshow
 16.004883 0 m /uni00000011 glyphshow
-21.005859 0 m /uni00000016 glyphshow
-31.016602 0 m /uni00000018 glyphshow
+21.005859 0 m /uni00000017 glyphshow
 grestore
 1.000 setgray
 gsave
@@ -2462,29 +2470,27 @@ gsave
 0.000000 rotate
 0.000000 0 m /uni00000013 glyphshow
 10.010742 0 m /uni00000011 glyphshow
-15.011719 0 m /uni00000016 glyphshow
-25.022461 0 m /uni00000016 glyphshow
+15.011719 0 m /uni00000015 glyphshow
+25.022461 0 m /uni0000001a glyphshow
 grestore
 0.150 setgray
 gsave
-256.838125 164.385125 translate
+259.838125 164.385125 translate
 0.000000 rotate
-0.000000 0 m /uni00000010 glyphshow
-5.994141 0 m /uni00000013 glyphshow
-16.004883 0 m /uni00000011 glyphshow
-21.005859 0 m /uni00000013 glyphshow
-31.016602 0 m /uni00000017 glyphshow
-41.027344 0 m /uni00000015 glyphshow
+0.000000 0 m /uni00000013 glyphshow
+10.010742 0 m /uni00000011 glyphshow
+15.011719 0 m /uni00000013 glyphshow
+25.022461 0 m /uni00000014 glyphshow
+35.033203 0 m /uni00000015 glyphshow
 grestore
 gsave
-328.262125 164.385125 translate
+333.269938 164.385125 translate
 0.000000 rotate
 0.000000 0 m /uni00000010 glyphshow
 5.994141 0 m /uni00000013 glyphshow
 16.004883 0 m /uni00000011 glyphshow
-21.005859 0 m /uni00000013 glyphshow
-31.016602 0 m /uni00000018 glyphshow
-41.027344 0 m /uni0000001a glyphshow
+21.005859 0 m /uni00000014 glyphshow
+31.016602 0 m /uni00000015 glyphshow
 grestore
 gsave
 404.693938 164.385125 translate
@@ -2493,34 +2499,33 @@ gsave
 5.994141 0 m /uni00000013 glyphshow
 16.004883 0 m /uni00000011 glyphshow
 21.005859 0 m /uni00000017 glyphshow
-31.016602 0 m /uni00000017 glyphshow
+31.016602 0 m /uni0000001a glyphshow
 grestore
 gsave
-481.125750 164.385125 translate
+476.117938 164.385125 translate
 0.000000 rotate
 0.000000 0 m /uni00000010 glyphshow
 5.994141 0 m /uni00000013 glyphshow
 16.004883 0 m /uni00000011 glyphshow
 21.005859 0 m /uni00000016 glyphshow
+31.016602 0 m /uni0000001a glyphshow
 grestore
 gsave
-547.541938 164.385125 translate
+552.549750 164.385125 translate
 0.000000 rotate
 0.000000 0 m /uni00000010 glyphshow
 5.994141 0 m /uni00000013 glyphshow
 16.004883 0 m /uni00000011 glyphshow
 21.005859 0 m /uni00000015 glyphshow
-31.016602 0 m /uni00000019 glyphshow
 grestore
 gsave
-613.958125 164.385125 translate
+616.958125 164.385125 translate
 0.000000 rotate
-0.000000 0 m /uni00000010 glyphshow
-5.994141 0 m /uni00000013 glyphshow
-16.004883 0 m /uni00000011 glyphshow
-21.005859 0 m /uni00000013 glyphshow
-31.016602 0 m /uni0000001c glyphshow
-41.027344 0 m /uni00000016 glyphshow
+0.000000 0 m /uni00000013 glyphshow
+10.010742 0 m /uni00000011 glyphshow
+15.011719 0 m /uni00000013 glyphshow
+25.022461 0 m /uni00000015 glyphshow
+35.033203 0 m /uni0000001c glyphshow
 grestore
 1.000 setgray
 gsave
@@ -2532,22 +2537,20 @@ gsave
 23.647461 0 m /uni00000014 glyphshow
 grestore
 gsave
-193.421938 120.897125 translate
+198.429750 120.897125 translate
 0.000000 rotate
 0.000000 0 m /uni00000013 glyphshow
 10.010742 0 m /uni00000011 glyphshow
 15.011719 0 m /uni00000019 glyphshow
-25.022461 0 m /uni00000014 glyphshow
 grestore
 0.150 setgray
 gsave
-260.525625 120.897125 translate
+264.845938 120.897125 translate
 0.000000 rotate
 0.000000 0 m /uni00000013 glyphshow
 10.010742 0 m /uni00000011 glyphshow
 15.011719 0 m /uni00000013 glyphshow
-25.022461 0 m /uni00000014 glyphshow
-33.658203 0 m /uni00000014 glyphshow
+25.022461 0 m /uni00000016 glyphshow
 grestore
 1.000 setgray
 gsave
@@ -2556,7 +2559,7 @@ gsave
 0.000000 0 m /uni00000013 glyphshow
 10.010742 0 m /uni00000011 glyphshow
 15.011719 0 m /uni00000015 glyphshow
-25.022461 0 m /uni00000018 glyphshow
+25.022461 0 m /uni00000017 glyphshow
 grestore
 0.150 setgray
 gsave
@@ -2566,8 +2569,8 @@ gsave
 5.994141 0 m /uni00000013 glyphshow
 16.004883 0 m /uni00000011 glyphshow
 21.005859 0 m /uni00000013 glyphshow
-31.016602 0 m /uni00000018 glyphshow
-41.027344 0 m /uni0000001a glyphshow
+31.016602 0 m /uni00000016 glyphshow
+41.027344 0 m /uni00000016 glyphshow
 grestore
 1.000 setgray
 gsave
@@ -2586,25 +2589,24 @@ gsave
 5.994141 0 m /uni00000013 glyphshow
 16.004883 0 m /uni00000011 glyphshow
 21.005859 0 m /uni00000013 glyphshow
-31.016602 0 m /uni0000001c glyphshow
-41.027344 0 m /uni0000001a glyphshow
+31.016602 0 m /uni00000015 glyphshow
+41.027344 0 m /uni00000018 glyphshow
 grestore
+1.000 setgray
 gsave
-621.965938 120.897125 translate
+626.973750 120.897125 translate
 0.000000 rotate
 0.000000 0 m /uni00000013 glyphshow
 10.010742 0 m /uni00000011 glyphshow
-15.011719 0 m /uni00000013 glyphshow
-25.022461 0 m /uni00000014 glyphshow
+15.011719 0 m /uni00000014 glyphshow
 grestore
-1.000 setgray
 gsave
 693.389938 120.897125 translate
 0.000000 rotate
 0.000000 0 m /uni00000013 glyphshow
 10.010742 0 m /uni00000011 glyphshow
 15.011719 0 m /uni0000001a glyphshow
-25.022461 0 m /uni0000001c glyphshow
+25.022461 0 m /uni00000018 glyphshow
 grestore
 0.150 setgray
 gsave
