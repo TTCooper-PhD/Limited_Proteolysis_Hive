@@ -1,12 +1,12 @@
 %!PS-Adobe-3.0 EPSF-3.0
 %%Title: Stacked_SequenceCoverage_Grouped_80
 %%Creator: matplotlib version 3.2.2, http://matplotlib.org/
-%%CreationDate: Wed Jan 13 22:57:39 2021
+%%CreationDate: Tue Apr 20 16:36:18 2021
 %%Orientation: portrait
-%%BoundingBox: -49.921874999999936 184.68093750000003 661.921875 607.3190625
+%%BoundingBox: -77.45312499999994 33.06250000000003 689.453125 758.9375
 %%EndComments
 %%BeginProlog
-/mpldict 8 dict def
+/mpldict 9 dict def
 mpldict begin
 /m { moveto } bind def
 /l { lineto } bind def
@@ -42,7 +42,7 @@ newpath
 /FontMatrix[.001 0 0 .001 0 0]def
 /FontBBox[-665 -325 2000 1040]def
 /FontType 3 def
-/Encoding [ /uni00000003 /uni00000008 /uni00000013 /uni00000014 /uni00000015 /uni00000016 /uni00000017 /uni00000018 /uni00000019 /uni0000001b /uni00000021 /uni00000024 /uni00000026 /uni00000027 /uni0000002a /uni00000031 /uni00000033 /uni00000036 /uni00000037 /uni00000044 /uni00000045 /uni00000046 /uni00000048 /uni00000049 /uni0000004a /uni0000004b /uni0000004c /uni0000004f /uni00000050 /uni00000051 /uni00000052 /uni00000053 /uni00000054 /uni00000055 /uni00000056 /uni00000057 /uni00000058 /uni00000059 /uni0000005a /uni0000005c ] def
+/Encoding [ /uni00000003 /uni00000008 /uni00000013 /uni00000014 /uni00000015 /uni00000016 /uni00000017 /uni00000018 /uni00000019 /uni0000001a /uni0000001b /uni0000001c /uni00000021 /uni00000024 /uni00000026 /uni00000027 /uni0000002a /uni00000031 /uni00000033 /uni00000036 /uni00000037 /uni00000044 /uni00000045 /uni00000046 /uni00000048 /uni00000049 /uni0000004a /uni0000004b /uni0000004c /uni0000004f /uni00000050 /uni00000051 /uni00000052 /uni00000053 /uni00000054 /uni00000055 /uni00000056 /uni00000057 /uni00000058 /uni00000059 /uni0000005a /uni0000005c ] def
 /FontInfo 10 dict dup begin
 /FamilyName (Arial) def
 /FullName (Arial) def
@@ -54,7 +54,7 @@ newpath
 /UnderlinePosition -217 def
 /UnderlineThickness 150 def
 end readonly def
-/CharStrings 41 dict dup begin
+/CharStrings 43 dict dup begin
 /.notdef 0 def
 /uni00000003{278 0 0 0 0 0 _sc
 }_d
@@ -270,6 +270,20 @@ _cl}_e}_d
 }_e{241 387 208 372 180 344 _c
 152 315 139 278 139 232 _c
 _cl}_e}_d
+/uni0000001a{556 0 47 0 511 707 _sc
+47 622 _m
+47 707 _l
+511 707 _l
+511 638 _l
+465 589 419 524 375 444 _c
+330 364 295 281 271 197 _c
+253 137 242 71 238 0 _c
+147 0 _l
+148 56 159 124 180 204 _c
+201 284 231 361 271 435 _c
+311 509 353 571 398 622 _c
+47 622 _l
+_cl}_d
 /uni0000001b{{556 0 41 -11 512 719 _sc
 177 388 _m
 140 401 113 420 95 445 _c
@@ -307,6 +321,40 @@ _cl}_e}_d
 352 336 316 350 274 350 _c
 232 350 198 336 171 309 _c
 144 281 131 247 131 207 _c
+_cl}_e}_d
+/uni0000001c{{556 0 42 -11 512 719 _sc
+55 166 _m
+139 173 _l
+146 133 160 105 180 87 _c
+200 69 226 60 258 60 _c
+284 60 308 66 328 78 _c
+348 90 365 107 378 128 _c
+391 148 402 176 411 212 _c
+420 247 425 283 425 319 _c
+425 323 424 329 424 337 _c
+406 309 382 286 352 269 _c
+322 251 289 243 253 243 _c
+194 243 144 264 103 307 _c
+62 350 42 407 42 477 _c
+42 549 63 608 106 652 _c
+}_e{148 696 202 719 267 719 _c
+313 719 355 706 394 681 _c
+432 656 462 620 482 574 _c
+502 527 512 460 512 373 _c
+512 281 502 208 482 154 _c
+462 100 433 59 394 31 _c
+354 3 308 -11 256 -11 _c
+200 -11 154 4 118 35 _c
+82 65 61 109 55 166 _c
+415 481 _m
+415 531 401 571 374 601 _c
+347 631 315 646 277 646 _c
+238 646 204 630 175 598 _c
+146 566 132 524 132 474 _c
+}_e{132 428 145 391 173 363 _c
+200 334 234 320 275 320 _c
+315 320 349 334 375 363 _c
+401 391 415 431 415 481 _c
 _cl}_e}_d
 /uni00000021{584 0 55 110 529 595 _sc
 529 313 _m
@@ -1000,100 +1048,307 @@ end readonly def
 }_d
 
 FontName currentdict end definefont pop
+%!PS-Adobe-3.0 Resource-Font
+%%Title: Arial Bold
+%%Copyright: © 2017 The Monotype Corporation. All Rights Reserved.   Hebrew OpenType Layout logic copyright © 2003 & 2007, Ralph Hancock & John Hudson. This layout logic for Biblical Hebrew is open source software under the MIT License; see embedded license description for details.
+%%Creator: Converted from TrueType to type 3 by PPR
+25 dict begin
+/_d{bind def}bind def
+/_m{moveto}_d
+/_l{lineto}_d
+/_cl{closepath eofill}_d
+/_c{curveto}_d
+/_sc{7 -1 roll{setcachedevice}{pop pop pop pop pop pop}ifelse}_d
+/_e{exec}_d
+/FontName /Arial-BoldMT def
+/PaintType 0 def
+/FontMatrix[.001 0 0 .001 0 0]def
+/FontBBox[-628 -376 2000 1056]def
+/FontType 3 def
+/Encoding [ /uni00000014 /uni00000015 /uni00000016 /uni00000017 /uni00000018 /uni0000001c ] def
+/FontInfo 10 dict dup begin
+/FamilyName (Arial) def
+/FullName (Arial Bold) def
+/Notice (© 2017 The Monotype Corporation. All Rights Reserved.   Hebrew OpenType Layout logic copyright © 2003 & 2007, Ralph Hancock & John Hudson. This layout logic for Biblical Hebrew is open source software under the MIT License; see embedded license description for details. Arial is a trademark of The Monotype Corporation.) def
+/Weight (Bold) def
+/Version (Version 7.00) def
+/ItalicAngle 0.0 def
+/isFixedPitch false def
+/UnderlinePosition -217 def
+/UnderlineThickness 215 def
+end readonly def
+/CharStrings 7 dict dup begin
+/.notdef 0 def
+/uni00000014{556 0 79 0 394 719 _sc
+394 0 _m
+256 0 _l
+256 517 _l
+206 470 147 435 79 413 _c
+79 538 _l
+115 549 154 571 196 604 _c
+238 636 266 675 282 719 _c
+394 719 _l
+394 0 _l
+_cl}_d
+/uni00000015{{556 0 25 0 506 719 _sc
+506 127 _m
+506 0 _l
+25 0 _l
+30 48 46 93 72 137 _c
+98 180 149 237 226 309 _c
+288 366 326 405 340 426 _c
+358 454 368 482 368 510 _c
+368 540 359 564 343 580 _c
+327 596 304 605 275 605 _c
+246 605 223 596 207 579 _c
+190 561 180 533 178 493 _c
+41 507 _l
+49 582 74 636 117 669 _c
+160 702 214 719 279 719 _c
+349 719 405 699 445 661 _c
+}_e{485 623 506 576 506 520 _c
+506 487 500 456 488 427 _c
+476 398 458 368 434 336 _c
+417 314 387 284 344 244 _c
+300 204 273 178 261 165 _c
+249 152 240 139 233 127 _c
+506 127 _l
+_cl}_e}_d
+/uni00000016{{556 0 38 -11 513 719 _sc
+38 190 _m
+170 206 _l
+174 172 186 146 204 128 _c
+222 110 245 102 272 102 _c
+300 102 323 112 343 134 _c
+363 155 373 184 373 221 _c
+373 255 363 282 345 302 _c
+326 322 303 333 277 333 _c
+259 333 238 329 214 323 _c
+229 435 _l
+266 433 294 441 314 458 _c
+333 475 343 498 343 527 _c
+343 551 335 570 321 584 _c
+307 598 288 606 265 606 _c
+}_e{241 606 220 597 204 581 _c
+188 565 178 541 174 510 _c
+48 532 _l
+56 575 69 609 87 635 _c
+105 661 129 681 161 696 _c
+193 711 229 719 269 719 _c
+336 719 390 697 431 654 _c
+464 619 481 579 481 535 _c
+481 472 446 422 378 385 _c
+418 376 451 356 476 326 _c
+500 295 513 258 513 215 _c
+513 152 490 99 444 55 _c
+398 11 341 -11 273 -11 _c
+208 -11 154 7 112 44 _c
+}_e{69 81 44 130 38 190 _c
+_cl}_e}_d
+/uni00000017{556 0 19 0 533 719 _sc
+312 0 _m
+312 144 _l
+19 144 _l
+19 264 _l
+329 719 _l
+444 719 _l
+444 265 _l
+533 265 _l
+533 144 _l
+444 144 _l
+444 0 _l
+312 0 _l
+312 265 _m
+312 509 _l
+147 265 _l
+312 265 _l
+_cl}_d
+/uni00000018{{556 0 44 -11 526 706 _sc
+44 184 _m
+181 198 _l
+185 167 196 143 216 125 _c
+235 107 257 98 282 98 _c
+310 98 335 109 355 132 _c
+375 155 385 190 385 238 _c
+385 282 375 315 355 337 _c
+335 359 310 370 278 370 _c
+238 370 203 352 172 317 _c
+61 333 _l
+131 706 _l
+494 706 _l
+494 578 _l
+235 578 _l
+214 456 _l
+244 471 276 479 308 479 _c
+368 479 420 456 462 412 _c
+}_e{504 368 526 310 526 240 _c
+526 181 509 129 475 83 _c
+428 20 363 -11 281 -11 _c
+215 -11 161 6 119 41 _c
+77 76 52 124 44 184 _c
+_cl}_e}_d
+/uni0000001c{{556 0 32 -12 510 719 _sc
+45 166 _m
+178 180 _l
+181 153 189 133 203 120 _c
+217 107 235 101 258 101 _c
+286 101 310 114 330 140 _c
+350 166 362 220 368 302 _c
+333 262 290 242 239 242 _c
+182 242 133 263 93 307 _c
+52 350 32 407 32 477 _c
+32 549 53 607 96 652 _c
+139 696 194 719 261 719 _c
+333 719 393 690 440 634 _c
+486 578 510 485 510 357 _c
+510 226 485 132 437 74 _c
+}_e{388 16 325 -12 248 -12 _c
+192 -12 146 2 112 32 _c
+77 62 55 106 45 166 _c
+356 465 _m
+356 509 345 544 325 568 _c
+305 592 281 605 255 605 _c
+229 605 208 595 192 575 _c
+175 555 167 522 167 477 _c
+167 430 176 396 194 374 _c
+212 352 234 342 262 342 _c
+288 342 311 352 329 373 _c
+347 394 356 425 356 465 _c
+_cl}_e}_d
+end readonly def
+
+/BuildGlyph
+ {exch begin
+ CharStrings exch
+ 2 copy known not{pop /.notdef}if
+ true 3 1 roll get exec
+ end}_d
+
+/BuildChar {
+ 1 index /Encoding get exch get
+ 1 index /BuildGlyph get exec
+}_d
+
+FontName currentdict end definefont pop
 end
 %%EndProlog
 mpldict begin
--49.922 184.681 translate
-711.844 422.638 0 0 clipbox
+-77.453 33.063 translate
+766.906 725.875 0 0 clipbox
 gsave
 0 0 m
-711.84375 0 l
-711.84375 422.638125 l
-0 422.638125 l
+766.90625 0 l
+766.90625 725.875 l
+0 725.875 l
 cl
 1.000 setgray
 fill
 grestore
 gsave
-35.04375 70.16875 m
-704.64375 70.16875 l
-704.64375 396.32875 l
-35.04375 396.32875 l
+90.10625 159.325 m
+759.70625 159.325 l
+759.70625 702.925 l
+90.10625 702.925 l
 cl
 1.000 setgray
 fill
 grestore
 0.150 setgray
 /ArialMT findfont
-16.500 scalefont
+44.000 scalefont
 setfont
 gsave
-150.815625 7.200000 translate
-90.000000 rotate
-0.000000 0 m /uni00000037 glyphshow
-9.453857 0 m /uni00000055 glyphshow
-14.948486 0 m /uni0000005c glyphshow
-23.198486 0 m /uni00000053 glyphshow
-32.375000 0 m /uni00000056 glyphshow
-40.625000 0 m /uni0000004c glyphshow
-44.290771 0 m /uni00000051 glyphshow
-grestore
-gsave
-374.109375 23.075000 translate
+213.081250 49.575000 translate
 90.000000 rotate
 0.000000 0 m /uni0000002a glyphshow
-12.834229 0 m /uni0000004f glyphshow
-16.500000 0 m /uni00000058 glyphshow
-25.676514 0 m /uni00000026 glyphshow
+34.224609 0 m /uni0000004f glyphshow
+44.000000 0 m /uni00000058 glyphshow
+68.470703 0 m /uni00000026 glyphshow
 grestore
 gsave
-597.309375 20.325000 translate
+436.023438 7.200000 translate
+90.000000 rotate
+0.000000 0 m /uni00000037 glyphshow
+25.251953 0 m /uni00000055 glyphshow
+39.904297 0 m /uni0000005c glyphshow
+61.904297 0 m /uni00000053 glyphshow
+86.375000 0 m /uni00000056 glyphshow
+108.375000 0 m /uni0000004c glyphshow
+118.150391 0 m /uni00000051 glyphshow
+grestore
+gsave
+659.481250 42.231250 translate
 90.000000 rotate
 0.000000 0 m /uni00000024 glyphshow
-11.005371 0 m /uni00000056 glyphshow
-19.255371 0 m /uni00000053 glyphshow
-28.431885 0 m /uni00000031 glyphshow
+29.347656 0 m /uni00000056 glyphshow
+51.347656 0 m /uni00000053 glyphshow
+75.818359 0 m /uni00000031 glyphshow
 grestore
 gsave
-16.371875 64.262500 translate
+56.137500 143.575000 translate
 0.000000 rotate
 0.000000 0 m /uni00000013 glyphshow
 grestore
 gsave
-7.200000 112.798214 translate
+31.668750 197.935000 translate
 0.000000 rotate
 0.000000 0 m /uni00000014 glyphshow
-9.176514 0 m /uni00000013 glyphshow
+24.470703 0 m /uni00000013 glyphshow
 grestore
 gsave
-7.200000 161.333929 translate
+31.668750 252.295000 translate
 0.000000 rotate
 0.000000 0 m /uni00000015 glyphshow
-9.176514 0 m /uni00000013 glyphshow
+24.470703 0 m /uni00000013 glyphshow
 grestore
 gsave
-7.200000 209.869643 translate
+31.668750 306.655000 translate
 0.000000 rotate
 0.000000 0 m /uni00000016 glyphshow
-9.176514 0 m /uni00000013 glyphshow
+24.470703 0 m /uni00000013 glyphshow
 grestore
 gsave
-7.200000 258.405357 translate
+31.668750 361.015000 translate
 0.000000 rotate
 0.000000 0 m /uni00000017 glyphshow
-9.176514 0 m /uni00000013 glyphshow
+24.470703 0 m /uni00000013 glyphshow
 grestore
 gsave
-7.200000 306.941071 translate
+31.668750 415.375000 translate
 0.000000 rotate
 0.000000 0 m /uni00000018 glyphshow
-9.176514 0 m /uni00000013 glyphshow
+24.470703 0 m /uni00000013 glyphshow
 grestore
 gsave
-7.200000 355.476786 translate
+31.668750 469.735000 translate
 0.000000 rotate
 0.000000 0 m /uni00000019 glyphshow
-9.176514 0 m /uni00000013 glyphshow
+24.470703 0 m /uni00000013 glyphshow
+grestore
+gsave
+31.668750 524.095000 translate
+0.000000 rotate
+0.000000 0 m /uni0000001a glyphshow
+24.470703 0 m /uni00000013 glyphshow
+grestore
+gsave
+31.668750 578.455000 translate
+0.000000 rotate
+0.000000 0 m /uni0000001b glyphshow
+24.470703 0 m /uni00000013 glyphshow
+grestore
+gsave
+31.668750 632.815000 translate
+0.000000 rotate
+0.000000 0 m /uni0000001c glyphshow
+24.470703 0 m /uni00000013 glyphshow
+grestore
+gsave
+7.200000 687.175000 translate
+0.000000 rotate
+0.000000 0 m /uni00000014 glyphshow
+24.470703 0 m /uni00000013 glyphshow
+48.941406 0 m /uni00000013 glyphshow
 grestore
 1.000 setlinewidth
 0 setlinejoin
@@ -1101,11 +1356,11 @@ grestore
 [] 0 setdash
 1.000 setgray
 gsave
-669.6 326.2 35.04 70.17 clipbox
-90.84375 70.16875 m
-202.44375 70.16875 l
-202.44375 264.311607 l
-90.84375 264.311607 l
+669.6 543.6 90.11 159.3 clipbox
+145.90625 159.325 m
+257.50625 159.325 l
+257.50625 316.969 l
+145.90625 316.969 l
 cl
 gsave
 0.442 0.149 0.492 setrgbcolor
@@ -1114,11 +1369,11 @@ grestore
 stroke
 grestore
 gsave
-669.6 326.2 35.04 70.17 clipbox
-314.04375 70.16875 m
-425.64375 70.16875 l
-425.64375 201.215179 l
-314.04375 201.215179 l
+669.6 543.6 90.11 159.3 clipbox
+369.10625 159.325 m
+480.70625 159.325 l
+480.70625 387.637 l
+369.10625 387.637 l
 cl
 gsave
 0.442 0.149 0.492 setrgbcolor
@@ -1127,11 +1382,11 @@ grestore
 stroke
 grestore
 gsave
-669.6 326.2 35.04 70.17 clipbox
-537.24375 70.16875 m
-648.84375 70.16875 l
-648.84375 269.165179 l
-537.24375 269.165179 l
+669.6 543.6 90.11 159.3 clipbox
+592.30625 159.325 m
+703.90625 159.325 l
+703.90625 403.945 l
+592.30625 403.945 l
 cl
 gsave
 0.442 0.149 0.492 setrgbcolor
@@ -1140,11 +1395,11 @@ grestore
 stroke
 grestore
 gsave
-669.6 326.2 35.04 70.17 clipbox
-90.84375 264.311607 m
-202.44375 264.311607 l
-202.44375 269.165179 l
-90.84375 269.165179 l
+669.6 543.6 90.11 159.3 clipbox
+145.90625 316.969 m
+257.50625 316.969 l
+257.50625 382.201 l
+145.90625 382.201 l
 cl
 gsave
 0.096 0.451 0.205 setrgbcolor
@@ -1153,11 +1408,11 @@ grestore
 stroke
 grestore
 gsave
-669.6 326.2 35.04 70.17 clipbox
-314.04375 201.215179 m
-425.64375 201.215179 l
-425.64375 312.847321 l
-314.04375 312.847321 l
+669.6 543.6 90.11 159.3 clipbox
+369.10625 387.637 m
+480.70625 387.637 l
+480.70625 393.073 l
+369.10625 393.073 l
 cl
 gsave
 0.096 0.451 0.205 setrgbcolor
@@ -1166,11 +1421,11 @@ grestore
 stroke
 grestore
 gsave
-669.6 326.2 35.04 70.17 clipbox
-537.24375 269.165179 m
-648.84375 269.165179 l
-648.84375 380.797321 l
-537.24375 380.797321 l
+669.6 543.6 90.11 159.3 clipbox
+592.30625 403.945 m
+703.90625 403.945 l
+703.90625 528.973 l
+592.30625 528.973 l
 cl
 gsave
 0.096 0.451 0.205 setrgbcolor
@@ -1182,91 +1437,131 @@ grestore
 2 setlinecap
 0.150 setgray
 gsave
-35.04375 70.16875 m
-35.04375 396.32875 l
+90.10625 159.325 m
+90.10625 702.925 l
 stroke
 grestore
 gsave
-704.64375 70.16875 m
-704.64375 396.32875 l
+759.70625 159.325 m
+759.70625 702.925 l
 stroke
 grestore
 gsave
-35.04375 70.16875 m
-704.64375 70.16875 l
+90.10625 159.325 m
+759.70625 159.325 l
 stroke
 grestore
 gsave
-35.04375 396.32875 m
-704.64375 396.32875 l
+90.10625 702.925 m
+759.70625 702.925 l
 stroke
 grestore
-/ArialMT findfont
-18.000 scalefont
+0.000 0.000 1.000 setrgbcolor
+/Arial-BoldMT findfont
+48.000 scalefont
 setfont
 gsave
-163.421875 402.328750 translate
+424.906250 387.637000 translate
+0.000000 rotate
+0.000000 0 m /uni00000017 glyphshow
+26.695312 0 m /uni00000015 glyphshow
+grestore
+gsave
+424.906250 164.761000 translate
+0.000000 rotate
+0.000000 0 m /uni00000014 glyphshow
+grestore
+gsave
+201.706250 403.945000 translate
+0.000000 rotate
+0.000000 0 m /uni00000017 glyphshow
+26.695312 0 m /uni00000018 glyphshow
+grestore
+gsave
+201.706250 284.353000 translate
+0.000000 rotate
+0.000000 0 m /uni00000015 glyphshow
+26.695312 0 m /uni00000016 glyphshow
+grestore
+gsave
+648.106250 316.969000 translate
+0.000000 rotate
+0.000000 0 m /uni00000015 glyphshow
+26.695312 0 m /uni0000001c glyphshow
+grestore
+gsave
+648.106250 224.557000 translate
+0.000000 rotate
+0.000000 0 m /uni00000014 glyphshow
+26.695312 0 m /uni00000015 glyphshow
+grestore
+0.150 setgray
+/ArialMT findfont
+10.000 scalefont
+setfont
+gsave
+310.242188 708.925000 translate
 0.000000 rotate
 0.000000 0 m /uni00000031 glyphshow
-12.999023 0 m /uni00000058 glyphshow
-23.009766 0 m /uni00000050 glyphshow
-38.003906 0 m /uni00000045 glyphshow
-48.014648 0 m /uni00000048 glyphshow
-58.025391 0 m /uni00000055 glyphshow
-64.019531 0 m /uni00000003 glyphshow
-69.020508 0 m /uni00000052 glyphshow
-79.031250 0 m /uni00000049 glyphshow
-84.032227 0 m /uni00000003 glyphshow
-89.033203 0 m /uni00000033 glyphshow
-101.039062 0 m /uni00000055 glyphshow
-107.033203 0 m /uni00000052 glyphshow
-117.043945 0 m /uni00000057 glyphshow
-122.044922 0 m /uni00000048 glyphshow
-132.055664 0 m /uni0000004c glyphshow
-136.054688 0 m /uni00000051 glyphshow
-146.065430 0 m /uni00000056 glyphshow
-155.065430 0 m /uni00000003 glyphshow
-160.066406 0 m /uni0000005a glyphshow
-173.065430 0 m /uni0000004c glyphshow
-177.064453 0 m /uni00000057 glyphshow
-182.065430 0 m /uni0000004b glyphshow
-192.076172 0 m /uni00000003 glyphshow
-197.077148 0 m /uni00000021 glyphshow
-207.588867 0 m /uni0000001b glyphshow
-217.599609 0 m /uni00000013 glyphshow
-227.610352 0 m /uni00000008 glyphshow
-243.615234 0 m /uni00000003 glyphshow
-248.616211 0 m /uni00000036 glyphshow
-260.622070 0 m /uni00000048 glyphshow
-270.632812 0 m /uni00000054 glyphshow
-280.643555 0 m /uni00000058 glyphshow
-290.654297 0 m /uni00000048 glyphshow
-300.665039 0 m /uni00000051 glyphshow
-310.675781 0 m /uni00000046 glyphshow
-319.675781 0 m /uni00000048 glyphshow
-329.686523 0 m /uni00000003 glyphshow
-334.687500 0 m /uni00000026 glyphshow
-347.686523 0 m /uni00000052 glyphshow
-357.697266 0 m /uni00000059 glyphshow
-366.697266 0 m /uni00000048 glyphshow
-376.708008 0 m /uni00000055 glyphshow
-382.702148 0 m /uni00000044 glyphshow
-392.712891 0 m /uni0000004a glyphshow
-402.723633 0 m /uni00000048 glyphshow
+7.221680 0 m /uni00000058 glyphshow
+12.783203 0 m /uni00000050 glyphshow
+21.113281 0 m /uni00000045 glyphshow
+26.674805 0 m /uni00000048 glyphshow
+32.236328 0 m /uni00000055 glyphshow
+35.566406 0 m /uni00000003 glyphshow
+38.344727 0 m /uni00000052 glyphshow
+43.906250 0 m /uni00000049 glyphshow
+46.684570 0 m /uni00000003 glyphshow
+49.462891 0 m /uni00000033 glyphshow
+56.132812 0 m /uni00000055 glyphshow
+59.462891 0 m /uni00000052 glyphshow
+65.024414 0 m /uni00000057 glyphshow
+67.802734 0 m /uni00000048 glyphshow
+73.364258 0 m /uni0000004c glyphshow
+75.585938 0 m /uni00000051 glyphshow
+81.147461 0 m /uni00000056 glyphshow
+86.147461 0 m /uni00000003 glyphshow
+88.925781 0 m /uni0000005a glyphshow
+96.147461 0 m /uni0000004c glyphshow
+98.369141 0 m /uni00000057 glyphshow
+101.147461 0 m /uni0000004b glyphshow
+106.708984 0 m /uni00000003 glyphshow
+109.487305 0 m /uni00000021 glyphshow
+115.327148 0 m /uni0000001b glyphshow
+120.888672 0 m /uni00000013 glyphshow
+126.450195 0 m /uni00000008 glyphshow
+135.341797 0 m /uni00000003 glyphshow
+138.120117 0 m /uni00000036 glyphshow
+144.790039 0 m /uni00000048 glyphshow
+150.351562 0 m /uni00000054 glyphshow
+155.913086 0 m /uni00000058 glyphshow
+161.474609 0 m /uni00000048 glyphshow
+167.036133 0 m /uni00000051 glyphshow
+172.597656 0 m /uni00000046 glyphshow
+177.597656 0 m /uni00000048 glyphshow
+183.159180 0 m /uni00000003 glyphshow
+185.937500 0 m /uni00000026 glyphshow
+193.159180 0 m /uni00000052 glyphshow
+198.720703 0 m /uni00000059 glyphshow
+203.720703 0 m /uni00000048 glyphshow
+209.282227 0 m /uni00000055 glyphshow
+212.612305 0 m /uni00000044 glyphshow
+218.173828 0 m /uni0000004a glyphshow
+223.735352 0 m /uni00000048 glyphshow
 grestore
 1.000 setlinewidth
 0 setlinecap
 0.800 setgray
 gsave
-46.59375 311.519375 m
-148.240625 311.519375 l
-150.440625 311.519375 151.540625 312.619375 151.540625 314.819375 c
-151.540625 384.77875 l
-151.540625 386.97875 150.440625 388.07875 148.240625 388.07875 c
-46.59375 388.07875 l
-44.39375 388.07875 43.29375 386.97875 43.29375 384.77875 c
-43.29375 314.819375 l
-43.29375 312.619375 44.39375 311.519375 46.59375 311.519375 c
+120.90625 476.75625 m
+392.00625 476.75625 l
+397.872917 476.75625 400.80625 479.689583 400.80625 485.55625 c
+400.80625 672.125 l
+400.80625 677.991667 397.872917 680.925 392.00625 680.925 c
+120.90625 680.925 l
+115.039583 680.925 112.10625 677.991667 112.10625 672.125 c
+112.10625 485.55625 l
+112.10625 479.689583 115.039583 476.75625 120.90625 476.75625 c
 cl
 gsave
 1.000 setgray
@@ -1275,27 +1570,30 @@ grestore
 stroke
 grestore
 0.150 setgray
+/ArialMT findfont
+48.000 scalefont
+setfont
 gsave
-49.893750 368.588125 translate
+129.706250 628.965625 translate
 0.000000 rotate
 0.000000 0 m /uni00000027 glyphshow
-12.999023 0 m /uni0000004c glyphshow
-16.998047 0 m /uni0000004a glyphshow
-27.008789 0 m /uni00000048 glyphshow
-37.019531 0 m /uni00000056 glyphshow
-46.019531 0 m /uni00000057 glyphshow
-51.020508 0 m /uni00000003 glyphshow
-55.646484 0 m /uni00000037 glyphshow
-66.016602 0 m /uni0000004c glyphshow
-70.015625 0 m /uni00000050 glyphshow
-85.009766 0 m /uni00000048 glyphshow
+34.664062 0 m /uni0000004c glyphshow
+45.328125 0 m /uni0000004a glyphshow
+72.023438 0 m /uni00000048 glyphshow
+98.718750 0 m /uni00000056 glyphshow
+122.718750 0 m /uni00000057 glyphshow
+136.054688 0 m /uni00000003 glyphshow
+148.515625 0 m /uni00000037 glyphshow
+176.085938 0 m /uni0000004c glyphshow
+186.750000 0 m /uni00000050 glyphshow
+226.734375 0 m /uni00000048 glyphshow
 grestore
 1.000 setgray
 gsave
-57.809375 344.744375 m
-90.809375 344.744375 l
-90.809375 356.294375 l
-57.809375 356.294375 l
+150.825 565.35625 m
+238.825 565.35625 l
+238.825 596.15625 l
+150.825 596.15625 l
 cl
 gsave
 0.442 0.149 0.492 setrgbcolor
@@ -1305,21 +1603,21 @@ stroke
 grestore
 0.150 setgray
 /ArialMT findfont
-16.500 scalefont
+44.000 scalefont
 setfont
 gsave
-104.009375 344.744375 translate
+274.025000 565.356250 translate
 0.000000 rotate
 0.000000 0 m /uni00000014 glyphshow
-9.176514 0 m /uni0000004b glyphshow
-18.353027 0 m /uni00000055 glyphshow
+24.470703 0 m /uni0000004b glyphshow
+48.941406 0 m /uni00000055 glyphshow
 grestore
 1.000 setgray
 gsave
-57.809375 321.400625 m
-90.809375 321.400625 l
-90.809375 332.950625 l
-57.809375 332.950625 l
+150.825 503.10625 m
+238.825 503.10625 l
+238.825 533.90625 l
+150.825 533.90625 l
 cl
 gsave
 0.096 0.451 0.205 setrgbcolor
@@ -1329,12 +1627,12 @@ stroke
 grestore
 0.150 setgray
 gsave
-104.009375 321.400625 translate
+274.025000 503.106250 translate
 0.000000 rotate
 0.000000 0 m /uni00000014 glyphshow
-9.176514 0 m /uni0000001b glyphshow
-18.353027 0 m /uni0000004b glyphshow
-27.529541 0 m /uni00000055 glyphshow
+24.470703 0 m /uni0000001b glyphshow
+48.941406 0 m /uni0000004b glyphshow
+73.412109 0 m /uni00000055 glyphshow
 grestore
 
 end
